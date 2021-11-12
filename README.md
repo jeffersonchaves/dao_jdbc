@@ -1,6 +1,6 @@
 # Laboratório DAO JDBC
 
-Este repositório contem um projeto para acesso a um banco de dados relacional utilizando o **driver de conexão JDBC.** Ainda, classes com características em comum foram organizadas em pacotes. Afim de estruturar a maniulacao de dados do Banco de dados, foi utlizado o **padrão DAO**.
+Este repositório foi criado como parte da disciplina de Desenvolvimento Web III. Contém um projeto para acesso a um banco de dados relacional utilizando o **driver de conexão JDBC.** Ainda, classes com características em comum foram organizadas em pacotes. Afim de estruturar a maniulacao de dados do Banco de dados, foi utlizado o **padrão DAO**.
 
 
 ## Data access object
