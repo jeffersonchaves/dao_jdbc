@@ -151,9 +151,9 @@ Um problema desse padrão é qe ele pode não ser uma solução não é escaláv
 
 
 
-# Como instalar o programa
+# Como Importar o Projeto
 
-Para a executar desse programa, é necessário realizar os seguintes passos:
+Para a importar o projeto para o Eclipse, é necessário realizar os seguintes passos:
 
  1. Importe o projeto para seu eclipse: File>Import > Web > WarFile
 	 a. Clieque em "Browse..." e selecione o arquivo [DaoLab.war](https://github.com/jeffersonchaves/dao_jdbc/blob/main/DaoLab.war "DaoLab.war") do repositório.
